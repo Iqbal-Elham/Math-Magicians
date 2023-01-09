@@ -36,10 +36,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Leaderboard] <a name="about-project"></a>
+# 📖 [Math Magician] <a name="about-project"></a>
 
 
-**[To Do List]** is a Single Page JavaScript project, using webpack and ES6 features, notably modules.
+**[To Do List]** is a Single Page JavaScript project, using React and ES6 features, notably modules.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,9 +47,10 @@
 
 
   <ul>
-    <li><a href="https://reactjs.org/">JavaScript</a></li>
     <li><a href="https://reactjs.org/">HTML</a></li>
     <li><a href="https://reactjs.org/">CSS</a></li>
+    <li><a href="https://reactjs.org/">JavaScript</a></li>
+    <li><a href="https://reactjs.org/">React</a></li>
   </ul>
 
 
@@ -68,7 +69,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- [Coming Soon]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +122,7 @@ Test for Linters For tracking linter errors locally you need to follow these ste
 
 Enter the follow code to run the project locally:
 
-`cd my-project` then you can run `npm start` ; the project will run on port `8080`  or `npm run build`; then open the `index.html` generated in the dist folder.
+`cd my-project` then you can run `npm start` ; the project will run on port `3000`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
